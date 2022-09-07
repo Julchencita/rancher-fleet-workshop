@@ -20,7 +20,7 @@ helm:
 
     global:
       cattle:
-        url: https://rancher.<IPrancher01>.sslip.io/
+        url: https://rancher.54.72.29.222.sslip.io/
 
 dependsOn:
   - name: edge-prepared-neuvector-crd
