@@ -23,4 +23,4 @@ helm:
         url: https://rancher.54.72.29.222.sslip.io/
 
 dependsOn:
-  - name: edge-prepared-neuvector-crd
+  - name: all-clusters-all-clusters-neuvector-crd
